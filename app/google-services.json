@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "487280348329",
+    "project_id": "actividad8-firebase",
+    "storage_bucket": "actividad8-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487280348329:android:121ebe0c62ce0d7b46edb8",
+        "android_client_info": {
+          "package_name": "com.example.activdad8_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487280348329-vnsnhs64akb95te17eqn3kgm9oikkgj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQCqOi83U4OBofL48x5BOuD8-J6xrAWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487280348329-vnsnhs64akb95te17eqn3kgm9oikkgj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487280348329:android:1f81f40be3154c7b46edb8",
+        "android_client_info": {
+          "package_name": "com.example.actividad8_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487280348329-vnsnhs64akb95te17eqn3kgm9oikkgj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChQCqOi83U4OBofL48x5BOuD8-J6xrAWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487280348329-vnsnhs64akb95te17eqn3kgm9oikkgj3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

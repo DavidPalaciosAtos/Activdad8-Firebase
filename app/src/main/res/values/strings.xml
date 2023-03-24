@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activdad8-Firebase</string>
+    <string name="TxtEmail">Ingrese un email</string>
+    <string name="TxtPassword">Ingrese una contraseña</string>
+    <string name="btnRegistro">Registrar Usuario</string>
+    <string name="btnLogin">Iniciar sesion</string>
+</resources>
